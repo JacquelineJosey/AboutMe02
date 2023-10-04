@@ -3,7 +3,7 @@
 ## Overview
 
 
-'''mysq1
+```mysq1
 
 CREATE DATABASE 1st;
   Name varchar(255),
